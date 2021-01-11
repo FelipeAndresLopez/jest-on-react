@@ -66,7 +66,7 @@
   "bugs": {
     "url": "https://github.com/FelipeAndresLopez/jest-on-react/issues"
   },
-  "homepage": ".",
+  "homepage": "https://github.com/FelipeAndresLopez/jest-on-react",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
